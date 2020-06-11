@@ -1,0 +1,6 @@
+{
+"name" : "workers",
+"version" : "1.0",
+"description" : "my workers",
+"main" : "index.js",
+},
